@@ -1,1 +1,1 @@
-<h2>Repositório criado para armenzar o conteúdo sendo estudado no curso de typescript, do professor Matues Battisti</h2>
+<h2>Repositório criado para armenzar o conteúdo sendo estudado no curso de typescript, do professor Mateus Battisti</h2>
