@@ -3,6 +3,7 @@ const router = Router();
 
 import { createMovie, getMovie } from './controllers/movieController'
 import validator from './middleware/handleValidation';
+import movieCreationValidator from './middleware/movieValidaton';
 
 
 router.get('/test', async (req: Request, res: Response) => {
@@ -10,6 +11,6 @@ router.get('/test', async (req: Request, res: Response) => {
 })
 
 router.get('/movies', getMovie)
-router.post('/movies', validator, createMovie)
+router.post('/movies', movieCreationValidator(), validator, createMovie)
 
 export default router
