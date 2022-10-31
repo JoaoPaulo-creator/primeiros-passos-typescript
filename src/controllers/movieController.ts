@@ -60,6 +60,27 @@ export async function deleteMovieById(req: Request, res: Response) {
 
 
     } catch (error) {
-        Logger.error(`Erro while searching for movie: ${error.message}`)
+        Logger.error(`Erro while deleting: ${error.message}`)
+    }
+}
+
+
+export async function updateMovieById(req: Request, res: Response){
+    try {
+        const id = req.params.id
+        const data = req.body
+        const movie = await MovieModel.findById(id)
+
+        if (!movie) {
+            return res.status(404).send({message: 'Movie not foud'})
+        }
+
+        // perform update
+        await MovieModel.updateOne({_id: id}, data)
+        return res.status(200).json(movie)
+
+
+    } catch (error) {
+        Logger.error(`Erro while updating: ${error.message}`)
     }
 }
