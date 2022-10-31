@@ -2,3 +2,26 @@
 2022-10-31 12:15:27 - [31merror[39m: [31mErro: bad auth : Authentication failed.[39m
 2022-10-31 12:17:00 - [31merror[39m: [31mNão foi possível conectar ao bando de dados[39m
 2022-10-31 12:17:01 - [31merror[39m: [31mNão foi possível conectar ao bando de dados[39m
+2022-10-31 13:14:46 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-10-31 13:18:02 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [api-typescript.movies][39m
+2022-10-31 13:19:33 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [api-typescript.movies][39m
+2022-10-31 13:19:58 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [api-typescript.movies][39m
+2022-10-31 13:20:37 - [31merror[39m: [31mNão foi possível conectar ao bando de dados[39m
+2022-10-31 13:20:49 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-10-31 13:25:34 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-10-31 13:27:24 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-10-31 13:32:03 - [31merror[39m: [31mErro while searching for movie: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'MongoClient'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'client' closes the circle[39m
+2022-10-31 13:32:51 - [31merror[39m: [31mErro while searching for movie: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'MongoClient'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'client' closes the circle[39m
+2022-10-31 13:33:32 - [31merror[39m: [31mErro while searching for movie: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'MongoClient'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'client' closes the circle[39m

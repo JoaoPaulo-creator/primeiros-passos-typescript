@@ -47,3 +47,194 @@
 [35m[39m
 2022-10-31 12:38:31 - [32minfo[39m: [32mConectado ao banco de dados[39m
 2022-10-31 12:38:31 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:04:42 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:04:42 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:04:45 - [35mhttp[39m: [35mGET /api/test 24 - 2.250 ms[39m
+[35m[39m
+2022-10-31 13:05:26 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:05:26 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:05:38 - [35mhttp[39m: [35mPOST /api/movies 23 - 1.907 ms[39m
+[35m[39m
+2022-10-31 13:08:52 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:08:52 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:08:54 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:08:54 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:09:04 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:09:04 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:09:15 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:09:15 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:09:26 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:09:26 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:09:27 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:09:27 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:09:29 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:09:29 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:09:38 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:09:38 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:09:41 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:09:41 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:09:43 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:09:43 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:09:55 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:09:55 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:04 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:04 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:07 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:07 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:12 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:12 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:15 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:15 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:20 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:20 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:21 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:21 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:23 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:23 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:28 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:28 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:29 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:29 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:30 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:30 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:36 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:36 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:38 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:38 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:42 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:42 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:10:46 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:10:46 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:11:07 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:11:07 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:14:46 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-10-31 13:14:58 - [35mhttp[39m: [35mPOST /api/movies - - - ms[39m
+[35m[39m
+2022-10-31 13:18:00 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:18:00 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:18:02 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [api-typescript.movies][39m
+2022-10-31 13:18:16 - [35mhttp[39m: [35mPOST /api/movies - - - ms[39m
+[35m[39m
+2022-10-31 13:19:33 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [api-typescript.movies][39m
+2022-10-31 13:19:39 - [35mhttp[39m: [35mPOST /api/movies - - - ms[39m
+[35m[39m
+2022-10-31 13:19:49 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:19:49 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:19:57 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:19:57 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:19:58 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [api-typescript.movies][39m
+2022-10-31 13:20:12 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:20:12 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:20:37 - [31merror[39m: [31mNão foi possível conectar ao bando de dados[39m
+2022-10-31 13:20:47 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:20:47 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:20:49 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-10-31 13:20:55 - [35mhttp[39m: [35mPOST /api/movies - - - ms[39m
+[35m[39m
+2022-10-31 13:24:27 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:24:27 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:24:32 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:24:32 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:24:41 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:24:41 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:25:22 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:25:22 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:25:28 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:25:28 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:25:34 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-10-31 13:25:36 - [35mhttp[39m: [35mPOST /api/movies - - - ms[39m
+[35m[39m
+2022-10-31 13:27:24 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2022-10-31 13:27:29 - [35mhttp[39m: [35mPOST /api/movies - - - ms[39m
+[35m[39m
+2022-10-31 13:28:23 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:28:23 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:28:25 - [35mhttp[39m: [35mPOST /api/movies 245 - 39.910 ms[39m
+[35m[39m
+2022-10-31 13:29:05 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:29:05 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:29:09 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:29:09 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:29:18 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:29:18 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:29:21 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:29:21 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:29:24 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:29:24 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:29:27 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:29:27 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:30:19 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:30:19 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:30:21 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:30:21 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:30:30 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:30:30 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:30:32 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:30:32 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:30:34 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:30:34 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:30:40 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:30:40 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:30:46 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:30:46 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:30:54 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:30:54 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:30:57 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:30:57 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:30:59 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:30:59 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:31:06 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:31:06 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:31:13 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:31:13 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:31:14 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:31:14 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:31:39 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:31:39 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:31:40 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:31:40 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:31:49 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:31:49 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:31:58 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:31:58 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:32:03 - [31merror[39m: [31mErro while searching for movie: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'MongoClient'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'client' closes the circle[39m
+2022-10-31 13:32:15 - [35mhttp[39m: [35mGET /api/movies - - - ms[39m
+[35m[39m
+2022-10-31 13:32:49 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:32:49 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:32:51 - [31merror[39m: [31mErro while searching for movie: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'MongoClient'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'client' closes the circle[39m
+2022-10-31 13:32:53 - [35mhttp[39m: [35mGET /api/movies - - - ms[39m
+[35m[39m
+2022-10-31 13:33:00 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:33:00 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:33:02 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:33:02 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:33:06 - [35mhttp[39m: [35mGET /api/movies - - - ms[39m
+[35m[39m
+2022-10-31 13:33:27 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:33:27 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:33:30 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:33:30 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:33:32 - [31merror[39m: [31mErro while searching for movie: Converting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'MongoClient'[39m
+[31m    |     property 's' -> object with constructor 'Object'[39m
+[31m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[31m    --- property 'client' closes the circle[39m
+2022-10-31 13:33:43 - [35mhttp[39m: [35mGET /api/movies - - - ms[39m
+[35m[39m
+2022-10-31 13:37:01 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:37:01 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:37:03 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:37:03 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:37:05 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:37:05 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 13:37:08 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 13:37:08 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
