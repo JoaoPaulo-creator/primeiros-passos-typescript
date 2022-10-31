@@ -2,7 +2,7 @@ import {Router, Request, Response} from 'express';
 const router = Router();
 
 import { createMovie, getMovie } from './controllers/movieController'
-import { validator } from './middleware/handleValidation';
+import validator from './middleware/handleValidation';
 
 
 router.get('/test', async (req: Request, res: Response) => {

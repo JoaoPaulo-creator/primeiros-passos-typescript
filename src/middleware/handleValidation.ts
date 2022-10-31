@@ -4,7 +4,7 @@ import { validationResult } from 'express-validator'
 // criando um middleware coringa, para conseguir trabalhar com qualquer erro
 // sendo assim, não há necessidade de ficar criando validações o tempo todo
 
-export const validator = (req: Request, res: Response, next: NextFunction) => {
+function validator (req: Request, res: Response, next: NextFunction){
     // criando um arrays de erros
     const errors = validationResult(req)
     const extractErrors: object[] = []
@@ -21,3 +21,5 @@ export const validator = (req: Request, res: Response, next: NextFunction) => {
     })
 
 }
+
+export default validator
