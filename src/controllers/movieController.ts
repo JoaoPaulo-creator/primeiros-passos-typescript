@@ -43,3 +43,23 @@ export async function getAllMovies(req: Request, res: Response) {
         Logger.error(`Erro while searching for movies: ${error.message}`)
     }
 }
+
+export async function deleteMovieById(req: Request, res: Response) {
+    try {
+        
+        const id = req.params.id
+        const movie = await MovieModel.findById(id)
+
+        if(!movie){
+            return res.status(404).send({message: 'Movie not found'})
+        }
+
+        // perform delete
+        await movie.delete()
+        return res.status(200).json({message: 'Movie deleted successfully'})
+
+
+    } catch (error) {
+        Logger.error(`Erro while searching for movie: ${error.message}`)
+    }
+}
