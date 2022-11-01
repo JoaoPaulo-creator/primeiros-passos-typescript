@@ -724,3 +724,7 @@
 2022-10-31 18:45:21 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
 2022-10-31 18:45:31 - [35mhttp[39m: [35mPATCH /api/movies/63603ed03c5d5f09190a555e 474 - 51.743 ms[39m
 [35m[39m
+2022-10-31 21:46:32 - [32minfo[39m: [32mConectado ao banco de dados[39m
+2022-10-31 21:46:32 - [32minfo[39m: [32mServer rodando na porta: 3000[39m
+2022-10-31 21:46:38 - [35mhttp[39m: [35mPOST /api/movies 451 - 48.658 ms[39m
+[35m[39m
